@@ -1,5 +1,4 @@
-/job
-projecct/keras_mlp_model.h5
-projecct/keras_mlp_model_balanced.h5
-projecct/naive_bayes_model.pkl
-projecct/mlp_model.pkl
+*.ipynb_checkpoints
+*__pycache__
+/model/model_weights.keras
+/data
