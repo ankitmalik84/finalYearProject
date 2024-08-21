@@ -1,7 +1,5 @@
 # Accident Detection System
 
-**Last Updated: *7 June 2022***
-
 1. Demonstration
 2. What is Accident Detection System?
 3. Prerequisites
@@ -26,14 +24,13 @@ An accident Detection System is designed to detect accidents via video or CCTV f
 
 ### Clone this repository
 
-`https://github.com/krishrustagi/Accident-Detection-System.git`
-
 To install all the packages required to run this python program
 `pip install -r requirements.txt`
 
 **Note:** This project requires a camera. So make sure you have a connected camera to your device. You can also use a downloaded video if not using a camera.
 
 ### Run
+
 Before running the program, you need to run the `accident-classification.ipynb` file which will create the `model_weights.h5` file. Then, to run this python program, you need to execute the `main.py` python file.
 
 ## 5. Description
