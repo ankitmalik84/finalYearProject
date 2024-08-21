@@ -1,4 +1,4 @@
 *.ipynb_checkpoints
 *__pycache__
 /model/model_weights.keras
-/data
+/data/train
