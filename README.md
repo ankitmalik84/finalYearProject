@@ -17,8 +17,19 @@ An accident Detection System is designed to detect accidents via video or CCTV f
 
 ## 3. Prerequisites
 
-- To use this project Python Version > 3.6 is recommended.
+- To use this project Python Version > 3.11 is recommended.
 - To contribute to this project, knowledge of basic python scripting, Machine Learning, and Deep Learning will help.
+
+### Required Libraries and Versions
+
+- numpy == 2.0.2
+- pandas == 2.2.3
+- opencv-python == 4.10.0.84
+- tensorflow == 2.18.0
+- keras == 3.7.0
+- twilio == 9.3.8
+- cloudinary == 1.41.0
+- geocoder == 1.38.1
 
 ## 4. Getting Started - How to use it?
 
